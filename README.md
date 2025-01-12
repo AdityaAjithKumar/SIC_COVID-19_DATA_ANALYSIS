@@ -35,7 +35,7 @@ This project requires the following software and libraries:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AdityaAjithKumar/SIC_COVID-19_DATA_ANALYSIS
    ```
 
 2. **Install Libraries:**
