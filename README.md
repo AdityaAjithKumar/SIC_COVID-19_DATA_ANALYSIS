@@ -50,7 +50,7 @@ This project requires the following software and libraries:
 
 4. **Run the Jupyter Notebook:**
    ```bash
-   jupyter notebook Covid19_Data_Analysis.ipynb
+   jupyter notebook SamsungProject.ipynb
    ```
 
 **Data Source:**
