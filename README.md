@@ -28,13 +28,14 @@ This Jupyter Notebook provides comprehensive analysis of COVID-19 data, offering
   - Recovery statistics
 
 #### 🎨 Data Visualization
+![](https://github.com/AdityaAjithKumar/SIC_COVID-19_DATA_ANALYSIS/blob/main/download%20(2).png)
 
 ##### Core Visualizations
 - 📈 **Line Plots**: Trend analysis of cases, deaths, and recoveries
 - 📊 **Stacked Bar Charts**: Top 10 countries comparison
 - 🗺️ **Interactive World Map**: Country-specific statistics
 - 🌡️ **Correlation Heatmap**: Relationship analysis
-- [![](https://github.com/AdityaAjithKumar/SIC_COVID-19_DATA_ANALYSIS/blob/main/download%20(1).png)
+- ![](https://github.com/AdityaAjithKumar/SIC_COVID-19_DATA_ANALYSIS/blob/main/download%20(1).png)
 
 ##### Relationship Analysis
 - 🔄 **Confirmed vs. Deaths**: Temporal correlation analysis
